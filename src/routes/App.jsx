@@ -26,10 +26,7 @@ const App = () => {
           </Switch>
         </Layout>
       </BrowserRouter>
-
     </AppContext.Provider>
-
   );
 };
-
 export default App;

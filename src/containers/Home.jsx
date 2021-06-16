@@ -6,6 +6,6 @@ const Home = () => {
   return (
     <Product products={initialState.products} />
   );
-}
+};
 
 export default Home;
